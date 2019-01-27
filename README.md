@@ -1,6 +1,8 @@
-Snowden-Webpack-Multi
-vue多页面项目模板，用于支持snowden-cli
-已载入vue, vuex, vue-router, vue-resource, stylus
+# Snowden-Webpack-Multi
+
+## vue多页面项目模板，用于支持snowden-cli
+
+###已载入vue, vuex, vue-router, vue-resource, stylus
 
 
 ## Build Setup
